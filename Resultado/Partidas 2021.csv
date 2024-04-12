@@ -1,0 +1,381 @@
+,Rodada,Casa,Gols Casa,Fora,Gols Fora,Pontos Casa,Pontos Fora
+0,1,Cuiabá - MT,2,Juventude - RS,2,1,1
+1,1,Bahia - BA,3,Santos - SP,0,3,0
+2,1,São Paulo - SP,0,Fluminense - RJ,0,1,1
+3,1,Atlético Mineiro - MG,1,Fortaleza - CE,2,0,3
+4,1,Flamengo - RJ,1,Palmeiras - SP,0,3,0
+5,1,Ceará - CE,3,Grêmio - RS,2,3,0
+6,1,Chapecoense - SC,0,Red Bull Bragantino - SP,3,0,3
+7,1,Corinthians - SP,0,Atlético - GO,1,0,3
+8,1,Athletico Paranaense - PR,1,America - MG,0,3,0
+9,1,Internacional - RS,2,Sport - PE,2,1,1
+10,2,Atlético - GO,2,São Paulo - SP,0,3,0
+11,2,Red Bull Bragantino - SP,3,Bahia - BA,3,1,1
+12,2,Santos - SP,3,Ceará - CE,1,3,0
+13,2,Fluminense - RJ,1,Cuiabá - MT,0,3,0
+14,2,America - MG,0,Corinthians - SP,1,0,3
+15,2,Fortaleza - CE,5,Internacional - RS,1,3,0
+16,2,Palmeiras - SP,3,Chapecoense - SC,1,3,0
+17,2,Juventude - RS,0,Athletico Paranaense - PR,3,0,3
+18,2,Sport - PE,0,Atlético Mineiro - MG,1,0,3
+19,2,Grêmio - RS,2,Flamengo - RJ,2,1,1
+20,3,Palmeiras - SP,1,Corinthians - SP,1,1,1
+21,3,Santos - SP,0,Juventude - RS,0,1,1
+22,3,Flamengo - RJ,2,America - MG,0,3,0
+23,3,Atlético Mineiro - MG,1,São Paulo - SP,0,3,0
+24,3,Grêmio - RS,0,Athletico Paranaense - PR,1,0,3
+25,3,Red Bull Bragantino - SP,2,Fluminense - RJ,2,1,1
+26,3,Chapecoense - SC,0,Ceará - CE,0,1,1
+27,3,Bahia - BA,0,Internacional - RS,1,0,3
+28,3,Fortaleza - CE,1,Sport - PE,0,3,0
+29,3,Cuiabá - MT,2,Atlético - GO,1,3,0
+30,4,São Paulo - SP,1,Chapecoense - SC,1,1,1
+31,4,Internacional - RS,0,Atlético Mineiro - MG,1,0,3
+32,4,Corinthians - SP,1,Red Bull Bragantino - SP,2,0,3
+33,4,Juventude - RS,0,Palmeiras - SP,3,0,3
+34,4,Ceará - CE,1,Bahia - BA,2,0,3
+35,4,America - MG,0,Cuiabá - MT,0,1,1
+36,4,Atlético - GO,0,Fortaleza - CE,0,1,1
+37,4,Fluminense - RJ,1,Santos - SP,0,3,0
+38,4,Sport - PE,1,Grêmio - RS,0,3,0
+39,4,Athletico Paranaense - PR,2,Flamengo - RJ,2,1,1
+40,5,Flamengo - RJ,2,Red Bull Bragantino - SP,3,0,3
+41,5,Palmeiras - SP,2,America - MG,1,3,0
+42,5,Internacional - RS,1,Ceará - CE,1,1,1
+43,5,Bahia - BA,0,Corinthians - SP,0,1,1
+44,5,Athletico Paranaense - PR,2,Atlético - GO,1,3,0
+45,5,Santos - SP,2,São Paulo - SP,0,3,0
+46,5,Fortaleza - CE,1,Fluminense - RJ,1,1,1
+47,5,Juventude - RS,1,Sport - PE,0,3,0
+48,5,Atlético Mineiro - MG,1,Chapecoense - SC,1,1,1
+49,5,Cuiabá - MT,0,Grêmio - RS,1,0,3
+50,6,Flamengo - RJ,2,Fortaleza - CE,1,3,0
+51,6,São Paulo - SP,2,Cuiabá - MT,2,1,1
+52,6,Red Bull Bragantino - SP,3,Palmeiras - SP,1,3,0
+53,6,Atlético - GO,1,Fluminense - RJ,0,3,0
+54,6,America - MG,1,Juventude - RS,1,1,1
+55,6,Corinthians - SP,2,Sport - PE,1,3,0
+56,6,Ceará - CE,2,Atlético Mineiro - MG,1,3,0
+57,6,Chapecoense - SC,1,Internacional - RS,2,0,3
+58,6,Grêmio - RS,2,Santos - SP,2,1,1
+59,6,Bahia - BA,2,Athletico Paranaense - PR,1,3,0
+60,7,Juventude - RS,1,Flamengo - RJ,0,3,0
+61,7,Fluminense - RJ,1,Corinthians - SP,1,1,1
+62,7,Grêmio - RS,0,Fortaleza - CE,0,1,1
+63,7,Palmeiras - SP,3,Bahia - BA,2,3,0
+64,7,Athletico Paranaense - PR,2,Chapecoense - SC,2,1,1
+65,7,America - MG,1,Internacional - RS,1,1,1
+66,7,Santos - SP,2,Atlético Mineiro - MG,0,3,0
+67,7,Ceará - CE,1,São Paulo - SP,1,1,1
+68,7,Sport - PE,0,Cuiabá - MT,0,1,1
+69,7,Atlético - GO,0,Red Bull Bragantino - SP,1,0,3
+70,8,Fortaleza - CE,3,Chapecoense - SC,2,3,0
+71,8,Fluminense - RJ,1,Athletico Paranaense - PR,4,0,3
+72,8,Bahia - BA,3,America - MG,4,0,3
+73,8,Internacional - RS,1,Palmeiras - SP,2,0,3
+74,8,Santos - SP,0,Sport - PE,0,1,1
+75,8,Corinthians - SP,0,São Paulo - SP,0,1,1
+76,8,Juventude - RS,2,Grêmio - RS,0,3,0
+77,8,Red Bull Bragantino - SP,0,Ceará - CE,0,1,1
+78,8,Atlético Mineiro - MG,4,Atlético - GO,1,3,0
+79,8,Cuiabá - MT,0,Flamengo - RJ,2,0,3
+80,9,America - MG,2,Santos - SP,0,3,0
+81,9,Athletico Paranaense - PR,2,Fortaleza - CE,1,3,0
+82,9,Corinthians - SP,1,Internacional - RS,1,1,1
+83,9,Chapecoense - SC,0,Bahia - BA,2,0,3
+84,9,Sport - PE,0,Palmeiras - SP,1,0,3
+85,9,Flamengo - RJ,0,Fluminense - RJ,1,0,3
+86,9,São Paulo - SP,1,Red Bull Bragantino - SP,2,0,3
+87,9,Ceará - CE,2,Juventude - RS,0,3,0
+88,9,Cuiabá - MT,0,Atlético Mineiro - MG,1,0,3
+89,9,Grêmio - RS,0,Atlético - GO,1,0,3
+90,10,Santos - SP,2,Athletico Paranaense - PR,1,3,0
+91,10,Red Bull Bragantino - SP,1,Cuiabá - MT,1,1,1
+92,10,Bahia - BA,1,Juventude - RS,0,3,0
+93,10,Fortaleza - CE,4,America - MG,0,3,0
+94,10,Palmeiras - SP,2,Grêmio - RS,0,3,0
+95,10,Atlético Mineiro - MG,2,Flamengo - RJ,1,3,0
+96,10,Atlético - GO,1,Sport - PE,1,1,1
+97,10,Fluminense - RJ,0,Ceará - CE,0,1,1
+98,10,Internacional - RS,0,São Paulo - SP,2,0,3
+99,10,Chapecoense - SC,0,Corinthians - SP,1,0,3
+100,11,Palmeiras - SP,3,Santos - SP,2,3,0
+101,11,Grêmio - RS,0,Internacional - RS,0,1,1
+102,11,Athletico Paranaense - PR,2,Red Bull Bragantino - SP,2,1,1
+103,11,São Paulo - SP,1,Bahia - BA,0,3,0
+104,11,America - MG,0,Atlético Mineiro - MG,1,0,3
+105,11,Sport - PE,1,Fluminense - RJ,2,0,3
+106,11,Juventude - RS,1,Atlético - GO,1,1,1
+107,11,Flamengo - RJ,2,Chapecoense - SC,1,3,0
+108,11,Cuiabá - MT,2,Ceará - CE,2,1,1
+109,11,Fortaleza - CE,1,Corinthians - SP,0,3,0
+110,12,Ceará - CE,1,Athletico Paranaense - PR,0,3,0
+111,12,São Paulo - SP,0,Fortaleza - CE,1,0,3
+112,12,Corinthians - SP,1,Atlético Mineiro - MG,2,0,3
+113,12,Fluminense - RJ,0,Grêmio - RS,1,0,3
+114,12,Chapecoense - SC,2,Cuiabá - MT,3,0,3
+115,12,Atlético - GO,0,Palmeiras - SP,3,0,3
+116,12,Bahia - BA,0,Flamengo - RJ,5,0,3
+117,12,Internacional - RS,1,Juventude - RS,0,3,0
+118,12,Red Bull Bragantino - SP,2,Santos - SP,2,1,1
+119,12,America - MG,0,Sport - PE,1,0,3
+120,13,Grêmio - RS,1,America - MG,1,1,1
+121,13,Palmeiras - SP,1,Fluminense - RJ,0,3,0
+122,13,Atlético Mineiro - MG,3,Bahia - BA,0,3,0
+123,13,Fortaleza - CE,1,Red Bull Bragantino - SP,0,3,0
+124,13,Flamengo - RJ,5,São Paulo - SP,1,3,0
+125,13,Athletico Paranaense - PR,2,Internacional - RS,1,3,0
+126,13,Santos - SP,0,Atlético - GO,1,0,3
+127,13,Sport - PE,0,Ceará - CE,0,1,1
+128,13,Juventude - RS,1,Chapecoense - SC,0,3,0
+129,13,Cuiabá - MT,1,Corinthians - SP,2,0,3
+130,14,São Paulo - SP,0,Palmeiras - SP,0,1,1
+131,14,Internacional - RS,0,Cuiabá - MT,0,1,1
+132,14,Red Bull Bragantino - SP,1,Grêmio - RS,0,3,0
+133,14,Corinthians - SP,1,Flamengo - RJ,3,0,3
+134,14,Atlético Mineiro - MG,2,Athletico Paranaense - PR,0,3,0
+135,14,Chapecoense - SC,0,Santos - SP,1,0,3
+136,14,Bahia - BA,0,Sport - PE,1,0,3
+137,14,Atlético - GO,1,America - MG,1,1,1
+138,14,Ceará - CE,3,Fortaleza - CE,1,3,0
+139,14,Fluminense - RJ,1,Juventude - RS,1,1,1
+140,15,Sport - PE,0,Red Bull Bragantino - SP,0,1,1
+141,15,Athletico Paranaense - PR,1,São Paulo - SP,2,0,3
+142,15,Palmeiras - SP,2,Fortaleza - CE,3,0,3
+143,15,Cuiabá - MT,1,Bahia - BA,1,1,1
+144,15,America - MG,1,Fluminense - RJ,0,3,0
+145,15,Juventude - RS,1,Atlético Mineiro - MG,2,0,3
+146,15,Santos - SP,0,Corinthians - SP,0,1,1
+147,15,Flamengo - RJ,0,Internacional - RS,4,0,3
+148,15,Ceará - CE,0,Atlético - GO,0,1,1
+149,15,Grêmio - RS,2,Chapecoense - SC,1,3,0
+150,16,Red Bull Bragantino - SP,1,Juventude - RS,2,0,3
+151,16,Atlético Mineiro - MG,2,Palmeiras - SP,0,3,0
+152,16,São Paulo - SP,2,Grêmio - RS,1,3,0
+153,16,Flamengo - RJ,2,Sport - PE,0,3,0
+154,16,Corinthians - SP,3,Ceará - CE,1,3,0
+155,16,Fortaleza - CE,1,Santos - SP,1,1,1
+156,16,Bahia - BA,1,Atlético - GO,2,0,3
+157,16,Cuiabá - MT,1,Athletico Paranaense - PR,0,3,0
+158,16,Internacional - RS,4,Fluminense - RJ,2,3,0
+159,16,Chapecoense - SC,1,America - MG,1,1,1
+160,17,Atlético - GO,1,Chapecoense - SC,1,1,1
+161,17,Grêmio - RS,2,Bahia - BA,0,3,0
+162,17,Juventude - RS,1,Fortaleza - CE,1,1,1
+163,17,Palmeiras - SP,0,Cuiabá - MT,2,0,3
+164,17,Ceará - CE,1,Flamengo - RJ,1,1,1
+165,17,Athletico Paranaense - PR,0,Corinthians - SP,1,0,3
+166,17,Santos - SP,2,Internacional - RS,2,1,1
+167,17,Sport - PE,0,São Paulo - SP,1,0,3
+168,17,America - MG,0,Red Bull Bragantino - SP,2,0,3
+169,17,Fluminense - RJ,1,Atlético Mineiro - MG,1,1,1
+170,18,Sport - PE,0,Chapecoense - SC,0,1,1
+171,18,Santos - SP,0,Flamengo - RJ,4,0,3
+172,18,Grêmio - RS,0,Corinthians - SP,1,0,3
+173,18,Palmeiras - SP,2,Athletico Paranaense - PR,1,3,0
+174,18,America - MG,2,Ceará - CE,0,3,0
+175,18,Juventude - RS,1,São Paulo - SP,1,1,1
+176,18,Atlético - GO,0,Internacional - RS,0,1,1
+177,18,Red Bull Bragantino - SP,1,Atlético Mineiro - MG,1,1,1
+178,18,Fluminense - RJ,2,Bahia - BA,0,3,0
+179,18,Fortaleza - CE,0,Cuiabá - MT,0,1,1
+180,19,Bahia - BA,4,Fortaleza - CE,2,3,0
+181,19,Cuiabá - MT,2,Santos - SP,1,3,0
+182,19,Athletico Paranaense - PR,0,Sport - PE,0,1,1
+183,19,Corinthians - SP,1,Juventude - RS,1,1,1
+184,19,Chapecoense - SC,1,Fluminense - RJ,2,0,3
+185,19,São Paulo - SP,0,America - MG,0,1,1
+186,19,Ceará - CE,1,Palmeiras - SP,2,0,3
+187,19,Internacional - RS,1,Red Bull Bragantino - SP,1,1,1
+188,19,Atlético Mineiro - MG,2,Grêmio - RS,1,3,0
+189,19,Flamengo - RJ,2,Atlético - GO,0,3,0
+190,20,America - MG,2,Athletico Paranaense - PR,0,3,0
+191,20,Juventude - RS,1,Cuiabá - MT,2,0,3
+192,20,Red Bull Bragantino - SP,1,Chapecoense - SC,2,0,3
+193,20,Santos - SP,0,Bahia - BA,0,1,1
+194,20,Grêmio - RS,2,Ceará - CE,0,3,0
+195,20,Fortaleza - CE,0,Atlético Mineiro - MG,2,0,3
+196,20,Palmeiras - SP,1,Flamengo - RJ,3,0,3
+197,20,Atlético - GO,1,Corinthians - SP,1,1,1
+198,20,Fluminense - RJ,2,São Paulo - SP,1,3,0
+199,20,Sport - PE,0,Internacional - RS,1,0,3
+200,21,Chapecoense - SC,0,Palmeiras - SP,2,0,3
+201,21,Athletico Paranaense - PR,2,Juventude - RS,1,3,0
+202,21,Atlético Mineiro - MG,3,Sport - PE,0,3,0
+203,21,Bahia - BA,1,Red Bull Bragantino - SP,1,1,1
+204,21,Ceará - CE,0,Santos - SP,0,1,1
+205,21,Internacional - RS,1,Fortaleza - CE,0,3,0
+206,21,São Paulo - SP,2,Atlético - GO,1,3,0
+207,21,Corinthians - SP,1,America - MG,1,1,1
+208,21,Flamengo - RJ,0,Grêmio - RS,1,0,3
+209,21,Cuiabá - MT,2,Fluminense - RJ,2,1,1
+210,22,Ceará - CE,1,Chapecoense - SC,0,3,0
+211,22,Corinthians - SP,2,Palmeiras - SP,1,3,0
+212,22,São Paulo - SP,0,Atlético Mineiro - MG,0,1,1
+213,22,America - MG,1,Flamengo - RJ,1,1,1
+214,22,Juventude - RS,3,Santos - SP,0,3,0
+215,22,Fluminense - RJ,2,Red Bull Bragantino - SP,1,3,0
+216,22,Internacional - RS,2,Bahia - BA,0,3,0
+217,22,Athletico Paranaense - PR,4,Grêmio - RS,2,3,0
+218,22,Sport - PE,0,Fortaleza - CE,1,0,3
+219,22,Atlético - GO,0,Cuiabá - MT,0,1,1
+220,23,Cuiabá - MT,0,America - MG,2,0,3
+221,23,Fortaleza - CE,0,Atlético - GO,3,0,3
+222,23,Red Bull Bragantino - SP,2,Corinthians - SP,2,1,1
+223,23,Atlético Mineiro - MG,1,Internacional - RS,0,3,0
+224,23,Chapecoense - SC,1,São Paulo - SP,1,1,1
+225,23,Flamengo - RJ,3,Athletico Paranaense - PR,0,3,0
+226,23,Palmeiras - SP,1,Juventude - RS,1,1,1
+227,23,Grêmio - RS,1,Sport - PE,2,0,3
+228,23,Bahia - BA,1,Ceará - CE,1,1,1
+229,23,Santos - SP,2,Fluminense - RJ,0,3,0
+230,24,Corinthians - SP,3,Bahia - BA,1,3,0
+231,24,Ceará - CE,0,Internacional - RS,0,1,1
+232,24,Sport - PE,3,Juventude - RS,1,3,0
+233,24,Atlético - GO,0,Athletico Paranaense - PR,2,0,3
+234,24,Chapecoense - SC,2,Atlético Mineiro - MG,2,1,1
+235,24,Red Bull Bragantino - SP,1,Flamengo - RJ,1,1,1
+236,24,America - MG,2,Palmeiras - SP,1,3,0
+237,24,Fluminense - RJ,0,Fortaleza - CE,2,0,3
+238,24,Grêmio - RS,2,Cuiabá - MT,2,1,1
+239,24,São Paulo - SP,1,Santos - SP,1,1,1
+240,25,Fluminense - RJ,0,Atlético - GO,0,1,1
+241,25,Sport - PE,1,Corinthians - SP,0,3,0
+242,25,Atlético Mineiro - MG,3,Ceará - CE,1,3,0
+243,25,Athletico Paranaense - PR,0,Bahia - BA,2,0,3
+244,25,Fortaleza - CE,0,Flamengo - RJ,3,0,3
+245,25,Palmeiras - SP,2,Red Bull Bragantino - SP,4,0,3
+246,25,Juventude - RS,1,America - MG,1,1,1
+247,25,Internacional - RS,5,Chapecoense - SC,2,3,0
+248,25,Santos - SP,1,Grêmio - RS,0,3,0
+249,25,Cuiabá - MT,0,São Paulo - SP,0,1,1
+250,26,Red Bull Bragantino - SP,1,Atlético - GO,0,3,0
+251,26,Bahia - BA,0,Palmeiras - SP,0,1,1
+252,26,Chapecoense - SC,1,Athletico Paranaense - PR,1,1,1
+253,26,Flamengo - RJ,3,Juventude - RS,1,3,0
+254,26,Atlético Mineiro - MG,3,Santos - SP,1,3,0
+255,26,Fortaleza - CE,1,Grêmio - RS,0,3,0
+256,26,Corinthians - SP,1,Fluminense - RJ,0,3,0
+257,26,Internacional - RS,3,America - MG,1,3,0
+258,26,Cuiabá - MT,1,Sport - PE,0,3,0
+259,26,São Paulo - SP,1,Ceará - CE,1,1,1
+260,27,Chapecoense - SC,1,Fortaleza - CE,2,0,3
+261,27,America - MG,0,Bahia - BA,0,1,1
+262,27,Palmeiras - SP,1,Internacional - RS,0,3,0
+263,27,Athletico Paranaense - PR,0,Fluminense - RJ,1,0,3
+264,27,Grêmio - RS,3,Juventude - RS,2,3,0
+265,27,Atlético - GO,2,Atlético Mineiro - MG,1,3,0
+266,27,Ceará - CE,2,Red Bull Bragantino - SP,2,1,1
+267,27,Sport - PE,0,Santos - SP,0,1,1
+268,27,Flamengo - RJ,0,Cuiabá - MT,0,1,1
+269,27,São Paulo - SP,1,Corinthians - SP,0,3,0
+270,28,Santos - SP,0,America - MG,2,0,3
+271,28,Juventude - RS,0,Ceará - CE,0,1,1
+272,28,Fluminense - RJ,3,Flamengo - RJ,1,3,0
+273,28,Fortaleza - CE,3,Athletico Paranaense - PR,0,3,0
+274,28,Atlético Mineiro - MG,2,Cuiabá - MT,1,3,0
+275,28,Internacional - RS,2,Corinthians - SP,2,1,1
+276,28,Red Bull Bragantino - SP,1,São Paulo - SP,0,3,0
+277,28,Bahia - BA,3,Chapecoense - SC,0,3,0
+278,28,Atlético - GO,2,Grêmio - RS,0,3,0
+279,28,Palmeiras - SP,2,Sport - PE,1,3,0
+280,29,Athletico Paranaense - PR,0,Santos - SP,1,0,3
+281,29,Flamengo - RJ,1,Atlético Mineiro - MG,0,3,0
+282,29,Juventude - RS,0,Bahia - BA,0,1,1
+283,29,America - MG,2,Fortaleza - CE,1,3,0
+284,29,Ceará - CE,1,Fluminense - RJ,0,3,0
+285,29,Grêmio - RS,1,Palmeiras - SP,3,0,3
+286,29,São Paulo - SP,1,Internacional - RS,0,3,0
+287,29,Sport - PE,2,Atlético - GO,0,3,0
+288,29,Cuiabá - MT,1,Red Bull Bragantino - SP,0,3,0
+289,29,Corinthians - SP,1,Chapecoense - SC,0,3,0
+290,30,Corinthians - SP,1,Fortaleza - CE,0,3,0
+291,30,Internacional - RS,1,Grêmio - RS,0,3,0
+292,30,Fluminense - RJ,1,Sport - PE,0,3,0
+293,30,Santos - SP,0,Palmeiras - SP,2,0,3
+294,30,Atlético Mineiro - MG,1,America - MG,0,3,0
+295,30,Red Bull Bragantino - SP,0,Athletico Paranaense - PR,2,0,3
+296,30,Bahia - BA,1,São Paulo - SP,0,3,0
+297,30,Ceará - CE,1,Cuiabá - MT,0,3,0
+298,30,Chapecoense - SC,2,Flamengo - RJ,2,1,1
+299,30,Atlético - GO,1,Juventude - RS,1,1,1
+300,31,Cuiabá - MT,0,Chapecoense - SC,0,1,1
+301,31,Grêmio - RS,1,Fluminense - RJ,0,3,0
+302,31,Athletico Paranaense - PR,2,Ceará - CE,1,3,0
+303,31,Santos - SP,2,Red Bull Bragantino - SP,0,3,0
+304,31,Atlético Mineiro - MG,3,Corinthians - SP,0,3,0
+305,31,Palmeiras - SP,4,Atlético - GO,0,3,0
+306,31,Fortaleza - CE,1,São Paulo - SP,1,1,1
+307,31,Sport - PE,2,America - MG,3,0,3
+308,31,Juventude - RS,2,Internacional - RS,1,3,0
+309,31,Flamengo - RJ,3,Bahia - BA,0,3,0
+310,32,Atlético - GO,0,Santos - SP,0,1,1
+311,32,America - MG,3,Grêmio - RS,1,3,0
+312,32,Internacional - RS,2,Athletico Paranaense - PR,1,3,0
+313,32,Red Bull Bragantino - SP,3,Fortaleza - CE,0,3,0
+314,32,Corinthians - SP,3,Cuiabá - MT,2,3,0
+315,32,São Paulo - SP,0,Flamengo - RJ,4,0,3
+316,32,Fluminense - RJ,2,Palmeiras - SP,1,3,0
+317,32,Ceará - CE,2,Sport - PE,1,3,0
+318,32,Chapecoense - SC,0,Juventude - RS,2,0,3
+319,32,Bahia - BA,2,Atlético Mineiro - MG,3,0,3
+320,33,Athletico Paranaense - PR,0,Atlético Mineiro - MG,1,0,3
+321,33,Grêmio - RS,3,Red Bull Bragantino - SP,0,3,0
+322,33,Cuiabá - MT,1,Internacional - RS,0,3,0
+323,33,Santos - SP,2,Chapecoense - SC,0,3,0
+324,33,America - MG,0,Atlético - GO,0,1,1
+325,33,Fortaleza - CE,0,Ceará - CE,4,0,3
+326,33,Palmeiras - SP,0,São Paulo - SP,2,0,3
+327,33,Juventude - RS,1,Fluminense - RJ,0,3,0
+328,33,Flamengo - RJ,1,Corinthians - SP,0,3,0
+329,33,Sport - PE,1,Bahia - BA,0,3,0
+330,34,Red Bull Bragantino - SP,3,Sport - PE,0,3,0
+331,34,Atlético Mineiro - MG,2,Juventude - RS,0,3,0
+332,34,Fortaleza - CE,1,Palmeiras - SP,0,3,0
+333,34,Chapecoense - SC,1,Grêmio - RS,3,0,3
+334,34,Atlético - GO,1,Ceará - CE,1,1,1
+335,34,Internacional - RS,1,Flamengo - RJ,2,0,3
+336,34,Corinthians - SP,2,Santos - SP,0,3,0
+337,34,Fluminense - RJ,2,America - MG,0,3,0
+338,34,Bahia - BA,0,Cuiabá - MT,0,1,1
+339,34,São Paulo - SP,0,Athletico Paranaense - PR,0,1,1
+340,35,Palmeiras - SP,2,Atlético Mineiro - MG,2,1,1
+341,35,Fluminense - RJ,1,Internacional - RS,0,3,0
+342,35,Santos - SP,2,Fortaleza - CE,0,3,0
+343,35,Ceará - CE,2,Corinthians - SP,1,3,0
+344,35,Atlético - GO,2,Bahia - BA,1,3,0
+345,35,Juventude - RS,1,Red Bull Bragantino - SP,0,3,0
+346,35,America - MG,3,Chapecoense - SC,0,3,0
+347,35,Grêmio - RS,3,São Paulo - SP,0,3,0
+348,35,Athletico Paranaense - PR,1,Cuiabá - MT,0,3,0
+349,35,Sport - PE,1,Flamengo - RJ,1,1,1
+350,36,Bahia - BA,3,Grêmio - RS,1,3,0
+351,36,Red Bull Bragantino - SP,1,America - MG,1,1,1
+352,36,São Paulo - SP,2,Sport - PE,0,3,0
+353,36,Corinthians - SP,1,Athletico Paranaense - PR,0,3,0
+354,36,Atlético Mineiro - MG,2,Fluminense - RJ,1,3,0
+355,36,Internacional - RS,1,Santos - SP,1,1,1
+356,36,Flamengo - RJ,2,Ceará - CE,1,3,0
+357,36,Cuiabá - MT,1,Palmeiras - SP,3,0,3
+358,36,Chapecoense - SC,0,Atlético - GO,1,0,3
+359,36,Fortaleza - CE,1,Juventude - RS,0,3,0
+360,37,Corinthians - SP,1,Grêmio - RS,1,1,1
+361,37,Atlético Mineiro - MG,4,Red Bull Bragantino - SP,3,3,0
+362,37,Bahia - BA,2,Fluminense - RJ,0,3,0
+363,37,Ceará - CE,0,America - MG,0,1,1
+364,37,Athletico Paranaense - PR,0,Palmeiras - SP,0,1,1
+365,37,São Paulo - SP,3,Juventude - RS,1,3,0
+366,37,Cuiabá - MT,1,Fortaleza - CE,0,3,0
+367,37,Flamengo - RJ,0,Santos - SP,1,0,3
+368,37,Internacional - RS,1,Atlético - GO,2,0,3
+369,37,Chapecoense - SC,0,Sport - PE,1,0,3
+370,38,Fluminense - RJ,3,Chapecoense - SC,0,3,0
+371,38,Palmeiras - SP,1,Ceará - CE,0,3,0
+372,38,Santos - SP,1,Cuiabá - MT,1,1,1
+373,38,America - MG,2,São Paulo - SP,0,3,0
+374,38,Grêmio - RS,4,Atlético Mineiro - MG,3,3,0
+375,38,Fortaleza - CE,2,Bahia - BA,1,3,0
+376,38,Sport - PE,1,Athletico Paranaense - PR,1,1,1
+377,38,Red Bull Bragantino - SP,1,Internacional - RS,0,3,0
+378,38,Juventude - RS,1,Corinthians - SP,0,3,0
+379,38,Atlético - GO,2,Flamengo - RJ,0,3,0

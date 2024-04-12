@@ -1,0 +1,761 @@
+,Rodada,Time,Pontos,Vitorias,Empates,Derrotas,Em Casa?,Total de Gols,Total de Gols Tomados,Saldo de Gols,Pontos Acumulados,Aproveitamento %
+0,1,América Fc Saf - MG,0,0,0,1,Fora,0,1,-1,0,0.0
+1,2,América Fc Saf - MG,3,1,0,1,Casa,4,2,2,3,50.0
+2,3,América Fc Saf - MG,0,1,0,2,Fora,4,5,-1,3,33.33
+3,4,América Fc Saf - MG,3,2,0,2,Casa,5,5,0,6,50.0
+4,5,América Fc Saf - MG,3,3,0,2,Fora,7,6,1,9,60.0
+5,6,América Fc Saf - MG,0,3,0,3,Fora,7,7,0,9,50.0
+6,7,América Fc Saf - MG,1,3,1,3,Casa,8,8,0,10,47.62
+7,8,América Fc Saf - MG,1,3,2,3,Fora,9,9,0,11,45.83
+8,9,América Fc Saf - MG,3,4,2,3,Casa,11,10,1,14,51.85
+9,10,América Fc Saf - MG,0,4,2,4,Casa,11,12,-1,14,46.67
+10,11,América Fc Saf - MG,0,4,2,5,Fora,11,13,-2,14,42.42
+11,12,América Fc Saf - MG,1,4,3,5,Casa,11,13,-2,15,41.67
+12,13,América Fc Saf - MG,0,4,3,6,Fora,11,14,-3,15,38.46
+13,14,América Fc Saf - MG,0,4,3,7,Fora,11,17,-6,15,35.71
+14,15,América Fc Saf - MG,3,5,3,7,Casa,12,17,-5,18,40.0
+15,16,América Fc Saf - MG,0,5,3,8,Fora,12,18,-6,18,37.5
+16,17,América Fc Saf - MG,0,5,3,9,Casa,12,21,-9,18,35.29
+17,18,América Fc Saf - MG,0,5,3,10,Casa,12,22,-10,18,33.33
+18,19,América Fc Saf - MG,3,6,3,10,Fora,13,22,-9,21,36.84
+19,20,América Fc Saf - MG,3,7,3,10,Casa,16,23,-7,24,40.0
+20,21,América Fc Saf - MG,3,8,3,10,Fora,17,23,-6,27,42.86
+21,22,América Fc Saf - MG,3,9,3,10,Casa,18,23,-5,30,45.45
+22,23,América Fc Saf - MG,1,9,4,10,Fora,19,24,-5,31,44.93
+23,24,América Fc Saf - MG,1,9,5,10,Casa,20,25,-5,32,44.44
+24,25,América Fc Saf - MG,3,10,5,10,Casa,22,25,-3,35,46.67
+25,26,América Fc Saf - MG,1,10,6,10,Fora,22,25,-3,36,46.15
+26,27,América Fc Saf - MG,3,11,6,10,Casa,23,25,-2,39,48.15
+27,28,América Fc Saf - MG,0,11,6,11,Fora,24,27,-3,39,46.43
+28,29,América Fc Saf - MG,3,12,6,11,Fora,26,28,-2,42,48.28
+29,30,América Fc Saf - MG,0,12,6,12,Casa,27,30,-3,42,46.67
+30,31,América Fc Saf - MG,3,13,6,12,Fora,29,30,-1,45,48.39
+31,32,América Fc Saf - MG,0,13,6,13,Casa,30,32,-2,45,46.88
+32,33,América Fc Saf - MG,0,13,6,14,Casa,31,34,-3,45,45.45
+33,34,América Fc Saf - MG,1,13,7,14,Fora,33,36,-3,46,45.1
+34,35,América Fc Saf - MG,3,14,7,14,Casa,34,36,-2,49,46.67
+35,36,América Fc Saf - MG,3,15,7,14,Fora,38,37,1,52,48.15
+36,37,América Fc Saf - MG,0,15,7,15,Fora,39,39,0,52,46.85
+37,38,América Fc Saf - MG,1,15,8,15,Casa,40,40,0,53,46.49
+38,1,Athletico Paranaense - PR,0,0,0,1,Fora,0,4,-4,0,0.0
+39,2,Athletico Paranaense - PR,0,0,0,2,Casa,0,5,-5,0,0.0
+40,3,Athletico Paranaense - PR,3,1,0,2,Casa,1,5,-4,3,33.33
+41,4,Athletico Paranaense - PR,0,1,0,3,Fora,1,6,-5,3,25.0
+42,5,Athletico Paranaense - PR,3,2,0,3,Casa,2,6,-4,6,40.0
+43,6,Athletico Paranaense - PR,0,2,0,4,Fora,3,8,-5,6,33.33
+44,7,Athletico Paranaense - PR,3,3,0,4,Casa,5,9,-4,9,42.86
+45,8,Athletico Paranaense - PR,3,4,0,4,Fora,6,9,-3,12,50.0
+46,9,Athletico Paranaense - PR,1,4,1,4,Casa,8,11,-3,13,48.15
+47,10,Athletico Paranaense - PR,3,5,1,4,Fora,11,12,-1,16,53.33
+48,11,Athletico Paranaense - PR,1,5,2,4,Fora,11,12,-1,17,51.52
+49,12,Athletico Paranaense - PR,1,5,3,4,Casa,12,13,-1,18,50.0
+50,13,Athletico Paranaense - PR,3,6,3,4,Fora,13,13,0,21,53.85
+51,14,Athletico Paranaense - PR,3,7,3,4,Casa,17,15,2,24,57.14
+52,15,Athletico Paranaense - PR,3,8,3,4,Fora,19,15,4,27,60.0
+53,16,Athletico Paranaense - PR,0,8,3,5,Fora,20,17,3,27,56.25
+54,17,Athletico Paranaense - PR,1,8,4,5,Casa,20,17,3,28,54.9
+55,18,Athletico Paranaense - PR,3,9,4,5,Casa,24,18,6,31,57.41
+56,19,Athletico Paranaense - PR,0,9,4,6,Fora,24,20,4,31,54.39
+57,20,Athletico Paranaense - PR,3,10,4,6,Casa,25,20,5,34,56.67
+58,21,Athletico Paranaense - PR,3,11,4,6,Fora,28,22,6,37,58.73
+59,22,Athletico Paranaense - PR,0,11,4,7,Fora,28,27,1,37,56.06
+60,23,Athletico Paranaense - PR,1,11,5,7,Casa,29,28,1,38,55.07
+61,24,Athletico Paranaense - PR,1,11,6,7,Fora,29,28,1,39,54.17
+62,25,Athletico Paranaense - PR,3,12,6,7,Casa,30,28,2,42,56.0
+63,26,Athletico Paranaense - PR,1,12,7,7,Fora,31,29,2,43,55.13
+64,27,Athletico Paranaense - PR,1,12,8,7,Casa,33,31,2,44,54.32
+65,28,Athletico Paranaense - PR,0,12,8,8,Fora,33,33,0,44,52.38
+66,29,Athletico Paranaense - PR,3,13,8,8,Casa,35,33,2,47,54.02
+67,30,Athletico Paranaense - PR,1,13,9,8,Casa,36,34,2,48,53.33
+68,31,Athletico Paranaense - PR,0,13,9,9,Fora,37,36,1,48,51.61
+69,32,Athletico Paranaense - PR,3,14,9,9,Casa,38,36,2,51,53.12
+70,33,Athletico Paranaense - PR,0,14,9,10,Fora,40,40,0,51,51.52
+71,34,Athletico Paranaense - PR,0,14,9,11,Casa,41,43,-2,51,50.0
+72,35,Athletico Paranaense - PR,3,15,9,11,Casa,44,45,-1,54,51.43
+73,36,Athletico Paranaense - PR,0,15,9,12,Fora,44,47,-3,54,50.0
+74,37,Athletico Paranaense - PR,1,15,10,12,Fora,45,48,-3,55,49.55
+75,38,Athletico Paranaense - PR,3,16,10,12,Casa,48,48,0,58,50.88
+76,1,Atlético - GO,1,0,1,0,Casa,1,1,0,1,33.33
+77,2,Atlético - GO,0,0,1,1,Fora,1,5,-4,1,16.67
+78,3,Atlético - GO,1,0,2,1,Casa,2,6,-4,2,22.22
+79,4,Atlético - GO,1,0,3,1,Fora,3,7,-4,3,25.0
+80,5,Atlético - GO,0,0,3,2,Casa,3,8,-5,3,20.0
+81,6,Atlético - GO,0,0,3,3,Fora,3,10,-7,3,16.67
+82,7,Atlético - GO,3,1,3,3,Casa,5,10,-5,6,28.57
+83,8,Atlético - GO,1,1,4,3,Fora,6,11,-5,7,29.17
+84,9,Atlético - GO,0,1,4,4,Casa,6,12,-6,7,25.93
+85,10,Atlético - GO,3,2,4,4,Casa,8,13,-5,10,33.33
+86,11,Atlético - GO,3,3,4,4,Fora,10,13,-3,13,39.39
+87,12,Atlético - GO,0,3,4,5,Fora,12,17,-5,13,36.11
+88,13,Atlético - GO,3,4,4,5,Casa,15,18,-3,16,41.03
+89,14,Atlético - GO,1,4,5,5,Fora,16,19,-3,17,40.48
+90,15,Atlético - GO,0,4,5,6,Casa,17,21,-4,17,37.78
+91,16,Atlético - GO,0,4,5,7,Fora,17,22,-5,17,35.42
+92,17,Atlético - GO,0,4,5,8,Casa,17,23,-6,17,33.33
+93,18,Atlético - GO,0,4,5,9,Fora,18,27,-9,17,31.48
+94,19,Atlético - GO,0,4,5,10,Casa,18,28,-10,17,29.82
+95,20,Atlético - GO,0,4,5,11,Fora,19,32,-13,17,28.33
+96,21,Atlético - GO,3,5,5,11,Casa,21,33,-12,20,31.75
+97,22,Atlético - GO,1,5,6,11,Fora,21,33,-12,21,31.82
+98,23,Atlético - GO,1,5,7,11,Casa,22,34,-12,22,31.88
+99,24,Atlético - GO,0,5,7,12,Fora,23,36,-13,22,30.56
+100,25,Atlético - GO,0,5,7,13,Casa,23,38,-15,22,29.33
+101,26,Atlético - GO,0,5,7,14,Fora,23,40,-17,22,28.21
+102,27,Atlético - GO,0,5,7,15,Casa,24,42,-18,22,27.16
+103,28,Atlético - GO,0,5,7,16,Fora,25,44,-19,22,26.19
+104,29,Atlético - GO,3,6,7,16,Fora,27,45,-18,25,28.74
+105,30,Atlético - GO,3,7,7,16,Casa,30,47,-17,28,31.11
+106,31,Atlético - GO,1,7,8,16,Casa,31,48,-17,29,31.18
+107,32,Atlético - GO,1,7,9,16,Fora,32,49,-17,30,31.25
+108,33,Atlético - GO,3,8,9,16,Casa,33,49,-16,33,33.33
+109,34,Atlético - GO,0,8,9,17,Fora,34,51,-17,33,32.35
+110,35,Atlético - GO,0,8,9,18,Casa,36,54,-18,33,31.43
+111,36,Atlético - GO,1,8,10,18,Fora,37,55,-18,34,31.48
+112,37,Atlético - GO,1,8,11,18,Casa,38,56,-18,35,31.53
+113,38,Atlético - GO,1,8,12,18,Fora,39,57,-18,36,31.58
+114,1,Atlético Mineiro - MG,3,1,0,0,Casa,2,0,2,3,100.0
+115,2,Atlético Mineiro - MG,3,2,0,0,Fora,3,0,3,6,100.0
+116,3,Atlético Mineiro - MG,1,2,1,0,Casa,5,2,3,7,77.78
+117,4,Atlético Mineiro - MG,1,2,2,0,Fora,7,4,3,8,66.67
+118,5,Atlético Mineiro - MG,0,2,2,1,Casa,8,6,2,8,53.33
+119,6,Atlético Mineiro - MG,3,3,2,1,Casa,10,6,4,11,61.11
+120,7,Atlético Mineiro - MG,1,3,3,1,Fora,11,7,4,12,57.14
+121,8,Atlético Mineiro - MG,3,4,3,1,Casa,13,8,5,15,62.5
+122,9,Atlético Mineiro - MG,1,4,4,1,Fora,13,8,5,16,59.26
+123,10,Atlético Mineiro - MG,0,4,4,2,Fora,16,13,3,16,53.33
+124,11,Atlético Mineiro - MG,1,4,5,2,Casa,17,14,3,17,51.52
+125,12,Atlético Mineiro - MG,1,4,6,2,Fora,17,14,3,18,50.0
+126,13,Atlético Mineiro - MG,3,5,6,2,Casa,19,14,5,21,53.85
+127,14,Atlético Mineiro - MG,3,6,6,2,Casa,22,16,6,24,57.14
+128,15,Atlético Mineiro - MG,3,7,6,2,Fora,24,17,7,27,60.0
+129,16,Atlético Mineiro - MG,1,7,7,2,Casa,24,17,7,28,58.33
+130,17,Atlético Mineiro - MG,3,8,7,2,Fora,25,17,8,31,60.78
+131,18,Atlético Mineiro - MG,1,8,8,2,Fora,26,18,8,32,59.26
+132,19,Atlético Mineiro - MG,0,8,8,3,Casa,27,20,7,32,56.14
+133,20,Atlético Mineiro - MG,0,8,8,4,Fora,27,23,4,32,53.33
+134,21,Atlético Mineiro - MG,0,8,8,5,Casa,29,26,3,32,50.79
+135,22,Atlético Mineiro - MG,3,9,8,5,Fora,30,26,4,35,53.03
+136,23,Atlético Mineiro - MG,0,9,8,6,Casa,30,27,3,35,50.72
+137,24,Atlético Mineiro - MG,1,9,9,6,Fora,31,28,3,36,50.0
+138,25,Atlético Mineiro - MG,3,10,9,6,Fora,33,28,5,39,52.0
+139,26,Atlético Mineiro - MG,1,10,10,6,Casa,34,29,5,40,51.28
+140,27,Atlético Mineiro - MG,0,10,10,7,Fora,34,30,4,40,49.38
+141,28,Atlético Mineiro - MG,0,10,10,8,Casa,34,31,3,40,47.62
+142,29,Atlético Mineiro - MG,3,11,10,8,Casa,36,31,5,43,49.43
+143,30,Atlético Mineiro - MG,3,12,10,8,Fora,38,32,6,46,51.11
+144,31,Atlético Mineiro - MG,1,12,11,8,Casa,38,32,6,47,50.54
+145,32,Atlético Mineiro - MG,0,12,11,9,Fora,38,33,5,47,48.96
+146,33,Atlético Mineiro - MG,1,12,12,9,Fora,38,33,5,48,48.48
+147,34,Atlético Mineiro - MG,3,13,12,9,Casa,39,33,6,51,50.0
+148,35,Atlético Mineiro - MG,1,13,13,9,Fora,41,35,6,52,49.52
+149,36,Atlético Mineiro - MG,0,13,13,10,Casa,41,37,4,52,48.15
+150,37,Atlético Mineiro - MG,3,14,13,10,Casa,44,37,7,55,49.55
+151,38,Atlético Mineiro - MG,3,15,13,10,Fora,45,37,8,58,50.88
+152,1,Avaí - SC,3,1,0,0,Casa,1,0,1,3,100.0
+153,2,Avaí - SC,0,1,0,1,Fora,1,3,-2,3,50.0
+154,3,Avaí - SC,3,2,0,1,Casa,4,5,-1,6,66.67
+155,4,Avaí - SC,1,2,1,1,Fora,4,5,-1,7,58.33
+156,5,Avaí - SC,3,3,1,1,Casa,6,6,0,10,66.67
+157,6,Avaí - SC,0,3,1,2,Casa,7,8,-1,10,55.56
+158,7,Avaí - SC,0,3,1,3,Fora,8,10,-2,10,47.62
+159,8,Avaí - SC,0,3,1,4,Fora,9,12,-3,10,41.67
+160,9,Avaí - SC,1,3,2,4,Casa,10,13,-3,11,40.74
+161,10,Avaí - SC,0,3,2,5,Fora,11,15,-4,11,36.67
+162,11,Avaí - SC,3,4,2,5,Fora,12,15,-3,14,42.42
+163,12,Avaí - SC,3,5,2,5,Casa,15,17,-2,17,47.22
+164,13,Avaí - SC,0,5,2,6,Fora,15,19,-4,17,43.59
+165,14,Avaí - SC,1,5,3,6,Casa,17,21,-4,18,42.86
+166,15,Avaí - SC,0,5,3,7,Casa,18,23,-5,18,40.0
+167,16,Avaí - SC,0,5,3,8,Fora,18,27,-9,18,37.5
+168,17,Avaí - SC,3,6,3,8,Casa,19,27,-8,21,41.18
+169,18,Avaí - SC,0,6,3,9,Fora,19,28,-9,21,38.89
+170,19,Avaí - SC,0,6,3,10,Casa,20,30,-10,21,36.84
+171,20,Avaí - SC,0,6,3,11,Fora,21,33,-12,21,35.0
+172,21,Avaí - SC,1,6,4,11,Casa,22,34,-12,22,34.92
+173,22,Avaí - SC,1,6,5,11,Fora,23,35,-12,23,34.85
+174,23,Avaí - SC,0,6,5,12,Casa,23,36,-13,23,33.33
+175,24,Avaí - SC,0,6,5,13,Fora,23,37,-14,23,31.94
+176,25,Avaí - SC,1,6,6,13,Fora,24,38,-14,24,32.0
+177,26,Avaí - SC,1,6,7,13,Casa,25,39,-14,25,32.05
+178,27,Avaí - SC,3,7,7,13,Casa,26,39,-13,28,34.57
+179,28,Avaí - SC,0,7,7,14,Fora,26,43,-17,28,33.33
+180,29,Avaí - SC,0,7,7,15,Casa,27,45,-18,28,32.18
+181,30,Avaí - SC,0,7,7,16,Casa,28,47,-19,28,31.11
+182,31,Avaí - SC,0,7,7,17,Fora,28,49,-21,28,30.11
+183,32,Avaí - SC,0,7,7,18,Casa,28,52,-24,28,29.17
+184,33,Avaí - SC,0,7,7,19,Fora,28,55,-27,28,28.28
+185,34,Avaí - SC,0,7,7,20,Fora,28,56,-28,28,27.45
+186,35,Avaí - SC,0,7,7,21,Casa,29,58,-29,28,26.67
+187,36,Avaí - SC,1,7,8,21,Fora,30,59,-29,29,26.85
+188,37,Avaí - SC,3,8,8,21,Casa,32,59,-27,32,28.83
+189,38,Avaí - SC,3,9,8,21,Fora,34,60,-26,35,30.7
+190,1,Botafogo - RJ,0,0,0,1,Casa,1,3,-2,0,0.0
+191,2,Botafogo - RJ,3,1,0,1,Fora,4,4,0,3,50.0
+192,3,Botafogo - RJ,1,1,1,1,Fora,5,5,0,4,44.44
+193,4,Botafogo - RJ,1,1,2,1,Casa,6,6,0,5,41.67
+194,5,Botafogo - RJ,3,2,2,1,Fora,7,6,1,8,53.33
+195,6,Botafogo - RJ,3,3,2,1,Casa,10,7,3,11,61.11
+196,7,Botafogo - RJ,1,3,3,1,Fora,11,8,3,12,57.14
+197,8,Botafogo - RJ,0,3,3,2,Fora,11,9,2,12,50.0
+198,9,Botafogo - RJ,0,3,3,3,Casa,12,11,1,12,44.44
+199,10,Botafogo - RJ,0,3,3,4,Fora,12,15,-3,12,40.0
+200,11,Botafogo - RJ,0,3,3,5,Casa,12,16,-4,12,36.36
+201,12,Botafogo - RJ,3,4,3,5,Casa,13,16,-3,15,41.67
+202,13,Botafogo - RJ,3,5,3,5,Fora,16,18,-2,18,46.15
+203,14,Botafogo - RJ,0,5,3,6,Casa,16,19,-3,18,42.86
+204,15,Botafogo - RJ,3,6,3,6,Fora,17,19,-2,21,46.67
+205,16,Botafogo - RJ,0,6,3,7,Fora,17,21,-4,21,43.75
+206,17,Botafogo - RJ,0,6,3,8,Casa,17,22,-5,21,41.18
+207,18,Botafogo - RJ,0,6,3,9,Fora,17,24,-7,21,38.89
+208,19,Botafogo - RJ,3,7,3,9,Casa,19,24,-5,24,42.11
+209,20,Botafogo - RJ,0,7,3,10,Fora,19,25,-6,24,40.0
+210,21,Botafogo - RJ,1,7,4,10,Casa,20,26,-6,25,39.68
+211,22,Botafogo - RJ,1,7,5,10,Casa,20,26,-6,26,39.39
+212,23,Botafogo - RJ,1,7,6,10,Fora,22,28,-6,27,39.13
+213,24,Botafogo - RJ,0,7,6,11,Casa,22,29,-7,27,37.5
+214,25,Botafogo - RJ,3,8,6,11,Fora,25,30,-5,30,40.0
+215,26,Botafogo - RJ,1,8,7,11,Casa,25,30,-5,31,39.74
+216,27,Botafogo - RJ,3,9,7,11,Casa,27,30,-3,34,41.98
+217,28,Botafogo - RJ,3,10,7,11,Fora,28,30,-2,37,44.05
+218,29,Botafogo - RJ,0,10,7,12,Casa,29,33,-4,37,42.53
+219,30,Botafogo - RJ,3,11,7,12,Fora,31,34,-3,40,44.44
+220,31,Botafogo - RJ,3,12,7,12,Fora,32,34,-2,43,46.24
+221,32,Botafogo - RJ,0,12,7,13,Casa,32,35,-3,43,44.79
+222,33,Botafogo - RJ,1,12,8,13,Fora,34,37,-3,44,44.44
+223,34,Botafogo - RJ,3,13,8,13,Casa,36,38,-2,47,46.08
+224,35,Botafogo - RJ,0,13,8,14,Casa,36,40,-4,47,44.76
+225,36,Botafogo - RJ,3,14,8,14,Fora,38,40,-2,50,46.3
+226,37,Botafogo - RJ,3,15,8,14,Casa,41,40,1,53,47.75
+227,38,Botafogo - RJ,0,15,8,15,Fora,41,43,-2,53,46.49
+228,1,Ceará - CE,3,1,0,0,Fora,3,2,1,3,100.0
+229,2,Ceará - CE,0,1,0,1,Casa,4,5,-1,3,50.0
+230,3,Ceará - CE,3,2,0,1,Fora,5,5,0,6,66.67
+231,4,Ceará - CE,0,2,0,2,Casa,5,6,-1,6,50.0
+232,5,Ceará - CE,0,2,0,3,Fora,5,7,-2,6,40.0
+233,6,Ceará - CE,1,2,1,3,Casa,7,9,-2,7,38.89
+234,7,Ceará - CE,1,2,2,3,Fora,7,9,-2,8,38.1
+235,8,Ceará - CE,1,2,3,3,Fora,9,11,-2,9,37.5
+236,9,Ceará - CE,1,2,4,3,Casa,10,12,-2,10,37.04
+237,10,Ceará - CE,3,3,4,3,Fora,12,12,0,13,43.33
+238,11,Ceará - CE,1,3,5,3,Fora,13,13,0,14,42.42
+239,12,Ceará - CE,1,3,6,3,Casa,13,13,0,15,41.67
+240,13,Ceará - CE,1,3,7,3,Fora,13,13,0,16,41.03
+241,14,Ceará - CE,1,3,8,3,Casa,14,14,0,17,40.48
+242,15,Ceará - CE,1,3,9,3,Casa,15,15,0,18,40.0
+243,16,Ceará - CE,0,3,9,4,Fora,16,17,-1,18,37.5
+244,17,Ceará - CE,3,4,9,4,Casa,19,18,1,21,41.18
+245,18,Ceará - CE,3,5,9,4,Casa,20,18,2,24,44.44
+246,19,Ceará - CE,0,5,9,5,Fora,20,19,1,24,42.11
+247,20,Ceará - CE,0,5,9,6,Casa,21,21,0,24,40.0
+248,21,Ceará - CE,1,5,10,6,Fora,22,22,0,25,39.68
+249,22,Ceará - CE,0,5,10,7,Casa,22,23,-1,25,37.88
+250,23,Ceará - CE,1,5,11,7,Fora,23,24,-1,26,37.68
+251,24,Ceará - CE,1,5,12,7,Casa,23,24,-1,27,37.5
+252,25,Ceará - CE,1,5,13,7,Fora,24,25,-1,28,37.33
+253,26,Ceará - CE,3,6,13,7,Casa,26,26,0,31,39.74
+254,27,Ceará - CE,0,6,13,8,Casa,26,28,-2,31,38.27
+255,28,Ceará - CE,0,6,13,9,Fora,26,29,-3,31,36.9
+256,29,Ceará - CE,0,6,13,10,Casa,27,31,-4,31,35.63
+257,30,Ceará - CE,1,6,14,10,Casa,28,32,-4,32,35.56
+258,31,Ceará - CE,1,6,15,10,Fora,28,32,-4,33,35.48
+259,32,Ceará - CE,1,6,16,10,Casa,29,33,-4,34,35.42
+260,33,Ceará - CE,0,6,16,11,Fora,29,34,-5,34,34.34
+261,34,Ceará - CE,0,6,16,12,Fora,30,36,-6,34,33.33
+262,35,Ceará - CE,0,6,16,13,Casa,30,37,-7,34,32.38
+263,36,Ceará - CE,0,6,16,14,Fora,30,38,-8,34,31.48
+264,37,Ceará - CE,0,6,16,15,Fora,30,40,-10,34,30.63
+265,38,Ceará - CE,3,7,16,15,Casa,34,41,-7,37,32.46
+266,1,Corinthians - SP,3,1,0,0,Fora,3,1,2,3,100.0
+267,2,Corinthians - SP,3,2,0,0,Casa,6,1,5,6,100.0
+268,3,Corinthians - SP,0,2,0,1,Fora,6,4,2,6,66.67
+269,4,Corinthians - SP,3,3,0,1,Casa,7,4,3,9,75.0
+270,5,Corinthians - SP,3,4,0,1,Fora,8,4,4,12,80.0
+271,6,Corinthians - SP,1,4,1,1,Fora,10,6,4,13,72.22
+272,7,Corinthians - SP,1,4,2,1,Casa,11,7,4,14,66.67
+273,8,Corinthians - SP,1,4,3,1,Casa,12,8,4,15,62.5
+274,9,Corinthians - SP,3,5,3,1,Fora,13,8,5,18,66.67
+275,10,Corinthians - SP,0,5,3,2,Fora,13,9,4,18,60.0
+276,11,Corinthians - SP,3,6,3,2,Casa,15,9,6,21,63.64
+277,12,Corinthians - SP,1,6,4,2,Fora,16,10,6,22,61.11
+278,13,Corinthians - SP,3,7,4,2,Casa,17,10,7,25,64.1
+279,14,Corinthians - SP,1,7,5,2,Casa,17,10,7,26,61.9
+280,15,Corinthians - SP,0,7,5,3,Fora,17,14,3,26,57.78
+281,16,Corinthians - SP,3,8,5,3,Casa,18,14,4,29,60.42
+282,17,Corinthians - SP,0,8,5,4,Fora,19,17,2,29,56.86
+283,18,Corinthians - SP,3,9,5,4,Casa,22,18,4,32,59.26
+284,19,Corinthians - SP,3,10,5,4,Fora,24,19,5,35,61.4
+285,20,Corinthians - SP,3,11,5,4,Casa,25,19,6,38,63.33
+286,21,Corinthians - SP,1,11,6,4,Fora,26,20,6,39,61.9
+287,22,Corinthians - SP,0,11,6,5,Casa,26,21,5,39,59.09
+288,23,Corinthians - SP,0,11,6,6,Fora,26,22,4,39,56.52
+289,24,Corinthians - SP,3,12,6,6,Casa,27,22,5,42,58.33
+290,25,Corinthians - SP,1,12,7,6,Casa,29,24,5,43,57.33
+291,26,Corinthians - SP,1,12,8,6,Fora,30,25,5,44,56.41
+292,27,Corinthians - SP,0,12,8,7,Fora,30,26,4,44,54.32
+293,28,Corinthians - SP,3,13,8,7,Casa,32,27,5,47,55.95
+294,29,Corinthians - SP,3,14,8,7,Casa,34,27,7,50,57.47
+295,30,Corinthians - SP,1,14,9,7,Fora,36,29,7,51,56.67
+296,31,Corinthians - SP,3,15,9,7,Casa,38,30,8,54,58.06
+297,32,Corinthians - SP,1,15,10,7,Fora,38,30,8,55,57.29
+298,33,Corinthians - SP,3,16,10,7,Fora,39,30,9,58,58.59
+299,34,Corinthians - SP,0,16,10,8,Casa,39,32,7,58,56.86
+300,35,Corinthians - SP,3,17,10,8,Fora,41,33,8,61,58.1
+301,36,Corinthians - SP,3,18,10,8,Casa,42,33,9,64,59.26
+302,37,Corinthians - SP,1,18,11,8,Fora,44,35,9,65,58.56
+303,38,Corinthians - SP,0,18,11,9,Casa,44,36,8,65,57.02
+304,1,Coritiba - PR,3,1,0,0,Casa,3,0,3,3,100.0
+305,2,Coritiba - PR,0,1,0,1,Fora,4,2,2,3,50.0
+306,3,Coritiba - PR,1,1,1,1,Fora,6,4,2,4,44.44
+307,4,Coritiba - PR,3,2,1,1,Casa,9,6,3,7,58.33
+308,5,Coritiba - PR,0,2,1,2,Fora,10,8,2,7,46.67
+309,6,Coritiba - PR,3,3,1,2,Casa,11,8,3,10,55.56
+310,7,Coritiba - PR,0,3,1,3,Fora,11,10,1,10,47.62
+311,8,Coritiba - PR,3,4,1,3,Casa,12,10,2,13,54.17
+312,9,Coritiba - PR,1,4,2,3,Fora,13,11,2,14,51.85
+313,10,Coritiba - PR,1,4,3,3,Casa,14,12,2,15,50.0
+314,11,Coritiba - PR,0,4,3,4,Casa,14,14,0,15,45.45
+315,12,Coritiba - PR,0,4,3,5,Fora,16,18,-2,15,41.67
+316,13,Coritiba - PR,0,4,3,6,Casa,16,19,-3,15,38.46
+317,14,Coritiba - PR,0,4,3,7,Fora,16,22,-6,15,35.71
+318,15,Coritiba - PR,3,5,3,7,Casa,18,23,-5,18,40.0
+319,16,Coritiba - PR,1,5,4,7,Casa,20,25,-5,19,39.58
+320,17,Coritiba - PR,0,5,4,8,Fora,20,27,-7,19,37.25
+321,18,Coritiba - PR,0,5,4,9,Fora,21,30,-9,19,35.19
+322,19,Coritiba - PR,3,6,4,9,Casa,22,30,-8,22,38.6
+323,20,Coritiba - PR,0,6,4,10,Fora,22,31,-9,22,36.67
+324,21,Coritiba - PR,0,6,4,11,Casa,23,33,-10,22,34.92
+325,22,Coritiba - PR,0,6,4,12,Casa,23,34,-11,22,33.33
+326,23,Coritiba - PR,0,6,4,13,Fora,25,39,-14,22,31.88
+327,24,Coritiba - PR,3,7,4,13,Casa,26,39,-13,25,34.72
+328,25,Coritiba - PR,0,7,4,14,Fora,26,41,-15,25,33.33
+329,26,Coritiba - PR,3,8,4,14,Casa,28,41,-13,28,35.9
+330,27,Coritiba - PR,0,8,4,15,Fora,28,43,-15,28,34.57
+331,28,Coritiba - PR,3,9,4,15,Casa,29,43,-14,31,36.9
+332,29,Coritiba - PR,0,9,4,16,Fora,30,46,-16,31,35.63
+333,30,Coritiba - PR,0,9,4,17,Fora,30,50,-20,31,34.44
+334,31,Coritiba - PR,3,10,4,17,Casa,32,51,-19,34,36.56
+335,32,Coritiba - PR,0,10,4,18,Fora,32,52,-20,34,35.42
+336,33,Coritiba - PR,1,10,5,18,Casa,33,53,-20,35,35.35
+337,34,Coritiba - PR,0,10,5,19,Fora,34,56,-22,35,34.31
+338,35,Coritiba - PR,3,11,5,19,Fora,35,56,-21,38,36.19
+339,36,Coritiba - PR,3,12,5,19,Casa,36,56,-20,41,37.96
+340,37,Coritiba - PR,1,12,6,19,Casa,38,58,-20,42,37.84
+341,38,Coritiba - PR,0,12,6,20,Fora,39,60,-21,42,36.84
+342,1,Cuiabá Saf - MT,3,1,0,0,Fora,1,0,1,3,100.0
+343,2,Cuiabá Saf - MT,0,1,0,1,Casa,1,1,0,3,50.0
+344,3,Cuiabá Saf - MT,3,2,0,1,Fora,2,1,1,6,66.67
+345,4,Cuiabá Saf - MT,1,2,1,1,Casa,3,2,1,7,58.33
+346,5,Cuiabá Saf - MT,0,2,1,2,Fora,4,6,-2,7,46.67
+347,6,Cuiabá Saf - MT,0,2,1,3,Fora,5,8,-3,7,38.89
+348,7,Cuiabá Saf - MT,1,2,2,3,Casa,6,9,-3,8,38.1
+349,8,Cuiabá Saf - MT,0,2,2,4,Casa,6,10,-4,8,33.33
+350,9,Cuiabá Saf - MT,0,2,2,5,Fora,7,12,-5,8,29.63
+351,10,Cuiabá Saf - MT,3,3,2,5,Casa,8,12,-4,11,36.67
+352,11,Cuiabá Saf - MT,1,3,3,5,Casa,9,13,-4,12,36.36
+353,12,Cuiabá Saf - MT,0,3,3,6,Fora,9,15,-6,12,33.33
+354,13,Cuiabá Saf - MT,1,3,4,6,Casa,9,15,-6,13,33.33
+355,14,Cuiabá Saf - MT,0,3,4,7,Fora,9,16,-7,13,30.95
+356,15,Cuiabá Saf - MT,3,4,4,7,Fora,11,17,-6,16,35.56
+357,16,Cuiabá Saf - MT,3,5,4,7,Casa,13,17,-4,19,39.58
+358,17,Cuiabá Saf - MT,0,5,4,8,Fora,13,18,-5,19,37.25
+359,18,Cuiabá Saf - MT,1,5,5,8,Casa,14,19,-5,20,37.04
+360,19,Cuiabá Saf - MT,0,5,5,9,Fora,14,20,-6,20,35.09
+361,20,Cuiabá Saf - MT,0,5,5,10,Casa,14,21,-7,20,33.33
+362,21,Cuiabá Saf - MT,0,5,5,11,Fora,14,22,-8,20,31.75
+363,22,Cuiabá Saf - MT,3,6,5,11,Casa,15,22,-7,23,34.85
+364,23,Cuiabá Saf - MT,1,6,6,11,Fora,16,23,-7,24,34.78
+365,24,Cuiabá Saf - MT,1,6,7,11,Casa,16,23,-7,25,34.72
+366,25,Cuiabá Saf - MT,1,6,8,11,Casa,17,24,-7,26,34.67
+367,26,Cuiabá Saf - MT,0,6,8,12,Fora,17,25,-8,26,33.33
+368,27,Cuiabá Saf - MT,1,6,9,12,Fora,19,27,-8,27,33.33
+369,28,Cuiabá Saf - MT,3,7,9,12,Casa,21,28,-7,30,35.71
+370,29,Cuiabá Saf - MT,0,7,9,13,Fora,21,30,-9,30,34.48
+371,30,Cuiabá Saf - MT,0,7,9,14,Fora,22,32,-10,30,33.33
+372,31,Cuiabá Saf - MT,0,7,9,15,Casa,23,34,-11,30,32.26
+373,32,Cuiabá Saf - MT,1,7,10,15,Fora,24,35,-11,31,32.29
+374,33,Cuiabá Saf - MT,0,7,10,16,Casa,25,37,-12,31,31.31
+375,34,Cuiabá Saf - MT,3,8,10,16,Casa,26,37,-11,34,33.33
+376,35,Cuiabá Saf - MT,3,9,10,16,Fora,28,37,-9,37,35.24
+377,36,Cuiabá Saf - MT,1,9,11,16,Casa,29,38,-9,38,35.19
+378,37,Cuiabá Saf - MT,0,9,11,17,Fora,29,41,-12,38,34.23
+379,38,Cuiabá Saf - MT,3,10,11,17,Casa,31,42,-11,41,35.96
+380,1,Flamengo - RJ,1,0,1,0,Fora,1,1,0,1,33.33
+381,2,Flamengo - RJ,3,1,1,0,Casa,4,2,2,4,66.67
+382,3,Flamengo - RJ,0,1,1,1,Fora,4,3,1,4,44.44
+383,4,Flamengo - RJ,1,1,2,1,Casa,4,3,1,5,41.67
+384,5,Flamengo - RJ,0,1,2,2,Casa,4,4,0,5,33.33
+385,6,Flamengo - RJ,1,1,3,2,Fora,6,6,0,6,33.33
+386,7,Flamengo - RJ,3,2,3,2,Casa,7,6,1,9,42.86
+387,8,Flamengo - RJ,3,3,3,2,Fora,9,7,2,12,50.0
+388,9,Flamengo - RJ,0,3,3,3,Casa,10,9,1,12,44.44
+389,10,Flamengo - RJ,0,3,3,4,Fora,10,10,0,12,40.0
+390,11,Flamengo - RJ,0,3,3,5,Fora,11,13,-2,12,36.36
+391,12,Flamengo - RJ,3,4,3,5,Casa,13,13,0,15,41.67
+392,13,Flamengo - RJ,0,4,3,6,Fora,13,15,-2,15,38.46
+393,14,Flamengo - RJ,3,5,3,6,Casa,16,15,1,18,42.86
+394,15,Flamengo - RJ,3,6,3,6,Fora,18,16,2,21,46.67
+395,16,Flamengo - RJ,0,6,3,7,Fora,18,17,1,21,43.75
+396,17,Flamengo - RJ,3,7,3,7,Casa,20,17,3,24,47.06
+397,18,Flamengo - RJ,3,8,3,7,Casa,24,17,7,27,50.0
+398,19,Flamengo - RJ,3,9,3,7,Fora,26,18,8,30,52.63
+399,20,Flamengo - RJ,3,10,3,7,Casa,30,19,11,33,55.0
+400,21,Flamengo - RJ,3,11,3,7,Fora,32,19,13,36,57.14
+401,22,Flamengo - RJ,3,12,3,7,Casa,37,19,18,39,59.09
+402,23,Flamengo - RJ,1,12,4,7,Fora,38,20,18,40,57.97
+403,24,Flamengo - RJ,3,13,4,7,Fora,39,20,19,43,59.72
+404,25,Flamengo - RJ,1,13,5,7,Casa,40,21,19,44,58.67
+405,26,Flamengo - RJ,1,13,6,7,Fora,41,22,19,45,57.69
+406,27,Flamengo - RJ,0,13,6,8,Casa,42,24,18,45,55.56
+407,28,Flamengo - RJ,0,13,6,9,Fora,44,27,17,45,53.57
+408,29,Flamengo - RJ,3,14,6,9,Casa,48,28,20,48,55.17
+409,30,Flamengo - RJ,1,14,7,9,Casa,48,28,20,49,54.44
+410,31,Flamengo - RJ,3,15,7,9,Fora,50,29,21,52,55.91
+411,32,Flamengo - RJ,3,16,7,9,Casa,51,29,22,55,57.29
+412,33,Flamengo - RJ,3,17,7,9,Fora,53,30,23,58,58.59
+413,34,Flamengo - RJ,3,18,7,9,Casa,56,32,24,61,59.8
+414,35,Flamengo - RJ,0,18,7,10,Casa,57,34,23,61,58.1
+415,36,Flamengo - RJ,0,18,7,11,Fora,57,35,22,61,56.48
+416,37,Flamengo - RJ,1,18,8,11,Fora,59,37,22,62,55.86
+417,38,Flamengo - RJ,0,18,8,12,Casa,60,39,21,62,54.39
+418,1,Fluminense - RJ,1,0,1,0,Casa,0,0,0,1,33.33
+419,2,Fluminense - RJ,3,1,1,0,Fora,1,0,1,4,66.67
+420,3,Fluminense - RJ,0,1,1,1,Casa,1,1,0,4,44.44
+421,4,Fluminense - RJ,0,1,1,2,Fora,3,4,-1,4,33.33
+422,5,Fluminense - RJ,1,1,2,2,Fora,4,5,-1,5,33.33
+423,6,Fluminense - RJ,3,2,2,2,Casa,6,6,0,8,44.44
+424,7,Fluminense - RJ,3,3,2,2,Fora,7,6,1,11,52.38
+425,8,Fluminense - RJ,0,3,2,3,Casa,8,8,0,11,45.83
+426,9,Fluminense - RJ,0,3,2,4,Fora,8,9,-1,11,40.74
+427,10,Fluminense - RJ,3,4,2,4,Casa,13,12,1,14,46.67
+428,11,Fluminense - RJ,0,4,2,5,Casa,13,14,-1,14,42.42
+429,12,Fluminense - RJ,1,4,3,5,Fora,13,14,-1,15,41.67
+430,13,Fluminense - RJ,3,5,3,5,Casa,15,14,1,18,46.15
+431,14,Fluminense - RJ,3,6,3,5,Fora,16,14,2,21,50.0
+432,15,Fluminense - RJ,3,7,3,5,Casa,20,14,6,24,53.33
+433,16,Fluminense - RJ,3,8,3,5,Casa,22,15,7,27,56.25
+434,17,Fluminense - RJ,1,8,4,5,Fora,24,17,7,28,54.9
+435,18,Fluminense - RJ,3,9,4,5,Fora,27,19,8,31,57.41
+436,19,Fluminense - RJ,3,10,4,5,Casa,29,20,9,34,59.65
+437,20,Fluminense - RJ,1,10,5,5,Fora,31,22,9,35,58.33
+438,21,Fluminense - RJ,3,11,5,5,Casa,32,22,10,38,60.32
+439,22,Fluminense - RJ,0,11,5,6,Fora,32,25,7,38,57.58
+440,23,Fluminense - RJ,3,12,5,6,Casa,37,27,10,41,59.42
+441,24,Fluminense - RJ,1,12,6,6,Casa,38,28,10,42,58.33
+442,25,Fluminense - RJ,0,12,6,7,Fora,38,29,9,42,56.0
+443,26,Fluminense - RJ,3,13,6,7,Casa,40,30,10,45,57.69
+444,27,Fluminense - RJ,3,14,6,7,Fora,42,31,11,48,59.26
+445,28,Fluminense - RJ,3,15,6,7,Casa,46,31,15,51,60.71
+446,29,Fluminense - RJ,0,15,6,8,Fora,46,33,13,51,58.62
+447,30,Fluminense - RJ,0,15,6,9,Fora,48,36,12,51,56.67
+448,31,Fluminense - RJ,0,15,6,10,Casa,48,38,10,51,54.84
+449,32,Fluminense - RJ,3,16,6,10,Fora,51,38,13,54,56.25
+450,33,Fluminense - RJ,1,16,7,10,Casa,53,40,13,55,55.56
+451,34,Fluminense - RJ,3,17,7,10,Fora,55,40,15,58,56.86
+452,35,Fluminense - RJ,3,18,7,10,Fora,56,40,16,61,58.1
+453,36,Fluminense - RJ,3,19,7,10,Casa,59,41,18,64,59.26
+454,37,Fluminense - RJ,3,20,7,10,Casa,62,41,21,67,60.36
+455,38,Fluminense - RJ,3,21,7,10,Fora,63,41,22,70,61.4
+456,1,Fortaleza - CE,0,0,0,1,Casa,0,1,-1,0,0.0
+457,2,Fortaleza - CE,0,0,0,2,Fora,1,3,-2,0,0.0
+458,3,Fortaleza - CE,0,0,0,3,Casa,1,4,-3,0,0.0
+459,4,Fortaleza - CE,0,0,0,4,Fora,1,5,-4,0,0.0
+460,5,Fortaleza - CE,1,0,1,4,Casa,2,6,-4,1,6.67
+461,6,Fortaleza - CE,0,0,1,5,Fora,3,9,-6,1,5.56
+462,7,Fortaleza - CE,0,0,1,6,Casa,3,10,-7,1,4.76
+463,8,Fortaleza - CE,1,0,2,6,Casa,4,11,-7,2,8.33
+464,9,Fortaleza - CE,3,1,2,6,Fora,6,12,-6,5,18.52
+465,10,Fortaleza - CE,1,1,3,6,Casa,7,13,-6,6,20.0
+466,11,Fortaleza - CE,1,1,4,6,Casa,7,13,-6,7,21.21
+467,12,Fortaleza - CE,0,1,4,7,Fora,9,16,-7,7,19.44
+468,13,Fortaleza - CE,3,2,4,7,Casa,10,16,-6,10,25.64
+469,14,Fortaleza - CE,0,2,4,8,Fora,12,19,-7,10,23.81
+470,15,Fortaleza - CE,0,2,4,9,Fora,13,21,-8,10,22.22
+471,16,Fortaleza - CE,1,2,5,9,Casa,13,21,-8,11,22.92
+472,17,Fortaleza - CE,3,3,5,9,Fora,14,21,-7,14,27.45
+473,18,Fortaleza - CE,0,3,5,10,Fora,15,23,-8,14,25.93
+474,19,Fortaleza - CE,1,3,6,10,Casa,15,23,-8,15,26.32
+475,20,Fortaleza - CE,3,4,6,10,Fora,16,23,-7,18,30.0
+476,21,Fortaleza - CE,3,5,6,10,Casa,19,23,-4,21,33.33
+477,22,Fortaleza - CE,3,6,6,10,Fora,20,23,-3,24,36.36
+478,23,Fortaleza - CE,3,7,6,10,Casa,21,23,-2,27,39.13
+479,24,Fortaleza - CE,3,8,6,10,Fora,22,23,-1,30,41.67
+480,25,Fortaleza - CE,0,8,6,11,Casa,23,26,-3,30,40.0
+481,26,Fortaleza - CE,0,8,6,12,Fora,24,28,-4,30,38.46
+482,27,Fortaleza - CE,1,8,7,12,Fora,25,29,-4,31,38.27
+483,28,Fortaleza - CE,3,9,7,12,Casa,28,31,-3,34,40.48
+484,29,Fortaleza - CE,3,10,7,12,Fora,29,31,-2,37,42.53
+485,30,Fortaleza - CE,1,10,8,12,Fora,30,32,-2,38,42.22
+486,31,Fortaleza - CE,3,11,8,12,Casa,32,32,0,41,44.09
+487,32,Fortaleza - CE,3,12,8,12,Fora,34,33,1,44,45.83
+488,33,Fortaleza - CE,1,12,9,12,Casa,34,33,1,45,45.45
+489,34,Fortaleza - CE,3,13,9,12,Casa,37,34,3,48,47.06
+490,35,Fortaleza - CE,0,13,9,13,Fora,37,38,-1,48,45.71
+491,36,Fortaleza - CE,1,13,10,13,Casa,38,39,-1,49,45.37
+492,37,Fortaleza - CE,3,14,10,13,Casa,44,39,5,52,46.85
+493,38,Fortaleza - CE,3,15,10,13,Fora,46,39,7,55,48.25
+494,1,Goiás - GO,0,0,0,1,Fora,0,3,-3,0,0.0
+495,2,Goiás - GO,1,0,1,1,Casa,1,4,-3,1,16.67
+496,3,Goiás - GO,0,0,1,2,Fora,3,7,-4,1,11.11
+497,4,Goiás - GO,1,0,2,2,Casa,5,9,-4,2,16.67
+498,5,Goiás - GO,3,1,2,2,Fora,6,9,-3,5,33.33
+499,6,Goiás - GO,3,2,2,2,Casa,7,9,-2,8,44.44
+500,7,Goiás - GO,0,2,2,3,Fora,7,10,-3,8,38.1
+501,8,Goiás - GO,1,2,3,3,Casa,8,11,-3,9,37.5
+502,9,Goiás - GO,3,3,3,3,Fora,10,12,-2,12,44.44
+503,10,Goiás - GO,1,3,4,3,Fora,11,13,-2,13,43.33
+504,11,Goiás - GO,1,3,5,3,Casa,12,14,-2,14,42.42
+505,12,Goiás - GO,0,3,5,4,Casa,13,16,-3,14,38.89
+506,13,Goiás - GO,0,3,5,5,Fora,13,17,-4,14,35.9
+507,14,Goiás - GO,3,4,5,5,Casa,14,17,-3,17,40.48
+508,15,Goiás - GO,0,4,5,6,Fora,14,18,-4,17,37.78
+509,16,Goiás - GO,3,5,5,6,Casa,16,19,-3,20,41.67
+510,17,Goiás - GO,1,5,6,6,Fora,16,19,-3,21,41.18
+511,18,Goiás - GO,0,5,6,7,Casa,18,22,-4,21,38.89
+512,19,Goiás - GO,1,5,7,7,Fora,21,25,-4,22,38.6
+513,20,Goiás - GO,3,6,7,7,Casa,22,25,-3,25,41.67
+514,21,Goiás - GO,0,6,7,8,Fora,22,28,-6,25,39.68
+515,22,Goiás - GO,1,6,8,8,Casa,23,29,-6,26,39.39
+516,23,Goiás - GO,3,7,8,8,Fora,24,29,-5,29,42.03
+517,24,Goiás - GO,3,8,8,8,Casa,26,30,-4,32,44.44
+518,25,Goiás - GO,3,9,8,8,Fora,28,31,-3,35,46.67
+519,26,Goiás - GO,1,9,9,8,Casa,29,32,-3,36,46.15
+520,27,Goiás - GO,1,9,10,8,Fora,30,33,-3,37,45.68
+521,28,Goiás - GO,0,9,10,9,Casa,30,34,-4,37,44.05
+522,29,Goiás - GO,0,9,10,10,Casa,30,35,-5,37,42.53
+523,30,Goiás - GO,1,9,11,10,Fora,31,36,-5,38,42.22
+524,31,Goiás - GO,0,9,11,11,Fora,33,40,-7,38,40.86
+525,32,Goiás - GO,1,9,12,11,Casa,33,40,-7,39,40.62
+526,33,Goiás - GO,3,10,12,11,Fora,35,41,-6,42,42.42
+527,34,Goiás - GO,1,10,13,11,Casa,37,43,-6,43,42.16
+528,35,Goiás - GO,0,10,13,12,Fora,39,46,-7,43,40.95
+529,36,Goiás - GO,3,11,13,12,Casa,40,46,-6,46,42.59
+530,37,Goiás - GO,0,11,13,13,Fora,40,49,-9,46,41.44
+531,38,Goiás - GO,0,11,13,14,Casa,40,53,-13,46,40.35
+532,1,Internacional - RS,0,0,0,1,Fora,0,2,-2,0,0.0
+533,2,Internacional - RS,3,1,0,1,Casa,2,3,-1,3,50.0
+534,3,Internacional - RS,3,2,0,1,Fora,3,3,0,6,66.67
+535,4,Internacional - RS,1,2,1,1,Casa,3,3,0,7,58.33
+536,5,Internacional - RS,1,2,2,1,Fora,4,4,0,8,53.33
+537,6,Internacional - RS,1,2,3,1,Casa,6,6,0,9,50.0
+538,7,Internacional - RS,1,2,4,1,Fora,7,7,0,10,47.62
+539,8,Internacional - RS,1,2,5,1,Casa,8,8,0,11,45.83
+540,9,Internacional - RS,3,3,5,1,Fora,10,8,2,14,51.85
+541,10,Internacional - RS,1,3,6,1,Fora,11,9,2,15,50.0
+542,11,Internacional - RS,3,4,6,1,Casa,14,10,4,18,54.55
+543,12,Internacional - RS,3,5,6,1,Fora,16,11,5,21,58.33
+544,13,Internacional - RS,0,5,6,2,Casa,18,14,4,21,53.85
+545,14,Internacional - RS,3,6,6,2,Casa,21,14,7,24,57.14
+546,15,Internacional - RS,1,6,7,2,Fora,22,15,7,25,55.56
+547,16,Internacional - RS,3,7,7,2,Casa,23,15,8,28,58.33
+548,17,Internacional - RS,1,7,8,2,Fora,23,15,8,29,56.86
+549,18,Internacional - RS,1,7,9,2,Casa,26,18,8,30,55.56
+550,19,Internacional - RS,0,7,9,3,Fora,27,20,7,30,52.63
+551,20,Internacional - RS,3,8,9,3,Casa,30,20,10,33,55.0
+552,21,Internacional - RS,0,8,9,4,Fora,30,23,7,33,52.38
+553,22,Internacional - RS,3,9,9,4,Casa,33,23,10,36,54.55
+554,23,Internacional - RS,3,10,9,4,Fora,34,23,11,39,56.52
+555,24,Internacional - RS,3,11,9,4,Casa,38,23,15,42,58.33
+556,25,Internacional - RS,1,11,10,4,Fora,40,25,15,43,57.33
+557,26,Internacional - RS,3,12,10,4,Casa,41,25,16,46,58.97
+558,27,Internacional - RS,3,13,10,4,Fora,43,26,17,49,60.49
+559,28,Internacional - RS,1,13,11,4,Casa,43,26,17,50,59.52
+560,29,Internacional - RS,3,14,11,4,Casa,44,26,18,53,60.92
+561,30,Internacional - RS,1,14,12,4,Fora,44,26,18,54,60.0
+562,31,Internacional - RS,3,15,12,4,Casa,48,28,20,57,61.29
+563,32,Internacional - RS,3,16,12,4,Fora,49,28,21,60,62.5
+564,33,Internacional - RS,1,16,13,4,Fora,50,29,21,61,61.62
+565,34,Internacional - RS,3,17,13,4,Casa,52,30,22,64,62.75
+566,35,Internacional - RS,0,17,13,5,Fora,52,31,21,64,60.95
+567,36,Internacional - RS,3,18,13,5,Casa,54,31,23,67,62.04
+568,37,Internacional - RS,3,19,13,5,Fora,55,31,24,70,63.06
+569,38,Internacional - RS,3,20,13,5,Casa,58,31,27,73,64.04
+570,1,Juventude - RS,1,0,1,0,Casa,2,2,0,1,33.33
+571,2,Juventude - RS,0,0,1,1,Fora,3,6,-3,1,16.67
+572,3,Juventude - RS,0,0,1,2,Casa,3,7,-4,1,11.11
+573,4,Juventude - RS,1,0,2,2,Fora,4,8,-4,2,16.67
+574,5,Juventude - RS,1,0,3,2,Casa,5,9,-4,3,20.0
+575,6,Juventude - RS,3,1,3,2,Fora,7,10,-3,6,33.33
+576,7,Juventude - RS,0,1,3,3,Casa,7,13,-6,6,28.57
+577,8,Juventude - RS,1,1,4,3,Fora,8,14,-6,7,29.17
+578,9,Juventude - RS,3,2,4,3,Casa,9,14,-5,10,37.04
+579,10,Juventude - RS,0,2,4,4,Casa,10,17,-7,10,33.33
+580,11,Juventude - RS,0,2,4,5,Fora,10,19,-9,10,30.3
+581,12,Juventude - RS,0,2,4,6,Casa,11,21,-10,10,27.78
+582,13,Juventude - RS,0,2,4,7,Fora,12,24,-12,10,25.64
+583,14,Juventude - RS,1,2,5,7,Fora,12,24,-12,11,26.19
+584,15,Juventude - RS,0,2,5,8,Casa,13,26,-13,11,24.44
+585,16,Juventude - RS,1,2,6,8,Fora,15,28,-13,12,25.0
+586,17,Juventude - RS,1,2,7,8,Casa,15,28,-13,13,25.49
+587,18,Juventude - RS,0,2,7,9,Fora,15,32,-17,13,24.07
+588,19,Juventude - RS,3,3,7,9,Casa,16,32,-16,16,28.07
+589,20,Juventude - RS,0,3,7,10,Fora,16,33,-17,16,26.67
+590,21,Juventude - RS,0,3,7,11,Casa,16,34,-18,16,25.4
+591,22,Juventude - RS,0,3,7,12,Fora,16,35,-19,16,24.24
+592,23,Juventude - RS,1,3,8,12,Casa,18,37,-19,17,24.64
+593,24,Juventude - RS,0,3,8,13,Fora,18,41,-23,17,23.61
+594,25,Juventude - RS,1,3,9,13,Casa,19,42,-23,18,24.0
+595,26,Juventude - RS,0,3,9,14,Fora,20,44,-24,18,23.08
+596,27,Juventude - RS,1,3,10,14,Casa,21,45,-24,19,23.46
+597,28,Juventude - RS,0,3,10,15,Fora,21,49,-28,19,22.62
+598,29,Juventude - RS,0,3,10,16,Fora,21,51,-30,19,21.84
+599,30,Juventude - RS,1,3,11,16,Casa,23,53,-30,20,22.22
+600,31,Juventude - RS,0,3,11,17,Fora,24,57,-33,20,21.51
+601,32,Juventude - RS,1,3,12,17,Casa,25,58,-33,21,21.88
+602,33,Juventude - RS,0,3,12,18,Casa,26,60,-34,21,21.21
+603,34,Juventude - RS,0,3,12,19,Fora,26,61,-35,21,20.59
+604,35,Juventude - RS,0,3,12,20,Casa,26,62,-36,21,20.0
+605,36,Juventude - RS,0,3,12,21,Fora,26,63,-37,21,19.44
+606,37,Juventude - RS,1,3,13,21,Casa,28,65,-37,22,19.82
+607,38,Juventude - RS,0,3,13,22,Fora,29,69,-40,22,19.3
+608,1,Palmeiras - SP,0,0,0,1,Casa,2,3,-1,0,0.0
+609,2,Palmeiras - SP,1,0,1,1,Fora,3,4,-1,1,16.67
+610,3,Palmeiras - SP,3,1,1,1,Casa,6,4,2,4,44.44
+611,4,Palmeiras - SP,1,1,2,1,Fora,6,4,2,5,41.67
+612,5,Palmeiras - SP,1,1,3,1,Casa,7,5,2,6,40.0
+613,6,Palmeiras - SP,3,2,3,1,Casa,9,5,4,9,50.0
+614,7,Palmeiras - SP,3,3,3,1,Fora,12,5,7,12,57.14
+615,8,Palmeiras - SP,3,4,3,1,Fora,13,5,8,15,62.5
+616,9,Palmeiras - SP,1,4,4,1,Casa,13,5,8,16,59.26
+617,10,Palmeiras - SP,3,5,4,1,Casa,17,5,12,19,63.33
+618,11,Palmeiras - SP,3,6,4,1,Fora,19,5,14,22,66.67
+619,12,Palmeiras - SP,3,7,4,1,Casa,23,7,16,25,69.44
+620,13,Palmeiras - SP,3,8,4,1,Fora,25,8,17,28,71.79
+621,14,Palmeiras - SP,1,8,5,1,Fora,27,10,17,29,69.05
+622,15,Palmeiras - SP,0,8,5,2,Casa,27,12,15,29,64.44
+623,16,Palmeiras - SP,1,8,6,2,Fora,27,12,15,30,62.5
+624,17,Palmeiras - SP,3,9,6,2,Casa,28,12,16,33,64.71
+625,18,Palmeiras - SP,3,10,6,2,Fora,29,12,17,36,66.67
+626,19,Palmeiras - SP,3,11,6,2,Casa,31,13,18,39,68.42
+627,20,Palmeiras - SP,3,12,6,2,Fora,33,14,19,42,70.0
+628,21,Palmeiras - SP,3,13,6,2,Casa,36,14,22,45,71.43
+629,22,Palmeiras - SP,3,14,6,2,Fora,37,14,23,48,72.73
+630,23,Palmeiras - SP,1,14,7,2,Casa,38,15,23,49,71.01
+631,24,Palmeiras - SP,1,14,8,2,Fora,39,16,23,50,69.44
+632,25,Palmeiras - SP,1,14,9,2,Fora,41,18,23,51,68.0
+633,26,Palmeiras - SP,3,15,9,2,Casa,43,19,24,54,69.23
+634,27,Palmeiras - SP,3,16,9,2,Casa,44,19,25,57,70.37
+635,28,Palmeiras - SP,3,17,9,2,Fora,45,19,26,60,71.43
+636,29,Palmeiras - SP,3,18,9,2,Fora,48,20,28,63,72.41
+637,30,Palmeiras - SP,3,19,9,2,Casa,52,20,32,66,73.33
+638,31,Palmeiras - SP,1,19,10,2,Fora,53,21,32,67,72.04
+639,32,Palmeiras - SP,1,19,11,2,Casa,53,21,32,68,70.83
+640,33,Palmeiras - SP,3,20,11,2,Casa,56,21,35,71,71.72
+641,34,Palmeiras - SP,3,21,11,2,Fora,59,22,37,74,72.55
+642,35,Palmeiras - SP,3,22,11,2,Casa,63,22,41,77,73.33
+643,36,Palmeiras - SP,1,22,12,2,Fora,64,23,41,78,72.22
+644,37,Palmeiras - SP,3,23,12,2,Casa,66,24,42,81,72.97
+645,38,Palmeiras - SP,0,23,12,3,Fora,66,27,39,81,71.05
+646,1,Red Bull Bragantino - SP,1,0,1,0,Fora,2,2,0,1,33.33
+647,2,Red Bull Bragantino - SP,3,1,1,0,Casa,6,2,4,4,66.67
+648,3,Red Bull Bragantino - SP,1,1,2,0,Casa,7,3,4,5,55.56
+649,4,Red Bull Bragantino - SP,3,2,2,0,Fora,8,3,5,8,66.67
+650,5,Red Bull Bragantino - SP,0,2,2,1,Casa,8,4,4,8,53.33
+651,6,Red Bull Bragantino - SP,0,2,2,2,Fora,8,6,2,8,44.44
+652,7,Red Bull Bragantino - SP,1,2,3,2,Casa,9,7,2,9,42.86
+653,8,Red Bull Bragantino - SP,1,2,4,2,Fora,10,8,2,10,41.67
+654,9,Red Bull Bragantino - SP,0,2,4,3,Casa,10,10,0,10,37.04
+655,10,Red Bull Bragantino - SP,3,3,4,3,Casa,11,10,1,13,43.33
+656,11,Red Bull Bragantino - SP,1,3,5,3,Fora,12,11,1,14,42.42
+657,12,Red Bull Bragantino - SP,3,4,5,3,Casa,16,13,3,17,47.22
+658,13,Red Bull Bragantino - SP,1,4,6,3,Fora,18,15,3,18,46.15
+659,14,Red Bull Bragantino - SP,0,4,6,4,Fora,20,19,1,18,42.86
+660,15,Red Bull Bragantino - SP,0,4,6,5,Casa,20,20,0,18,40.0
+661,16,Red Bull Bragantino - SP,3,5,6,5,Casa,24,20,4,21,43.75
+662,17,Red Bull Bragantino - SP,3,6,6,5,Fora,27,20,7,24,47.06
+663,18,Red Bull Bragantino - SP,3,7,6,5,Casa,29,21,8,27,50.0
+664,19,Red Bull Bragantino - SP,0,7,6,6,Fora,30,23,7,27,47.37
+665,20,Red Bull Bragantino - SP,3,8,6,6,Casa,31,23,8,30,50.0
+666,21,Red Bull Bragantino - SP,0,8,6,7,Fora,32,25,7,30,47.62
+667,22,Red Bull Bragantino - SP,0,8,6,8,Fora,32,28,4,30,45.45
+668,23,Red Bull Bragantino - SP,1,8,7,8,Casa,33,29,4,31,44.93
+669,24,Red Bull Bragantino - SP,0,8,7,9,Fora,33,30,3,31,43.06
+670,25,Red Bull Bragantino - SP,1,8,8,9,Casa,35,32,3,32,42.67
+671,26,Red Bull Bragantino - SP,1,8,9,9,Fora,36,33,3,33,42.31
+672,27,Red Bull Bragantino - SP,1,8,10,9,Casa,37,34,3,34,41.98
+673,28,Red Bull Bragantino - SP,1,8,11,9,Fora,37,34,3,35,41.67
+674,29,Red Bull Bragantino - SP,0,8,11,10,Fora,38,38,0,35,40.23
+675,30,Red Bull Bragantino - SP,3,9,11,10,Casa,40,39,1,38,42.22
+676,31,Red Bull Bragantino - SP,0,9,11,11,Fora,41,41,0,38,40.86
+677,32,Red Bull Bragantino - SP,0,9,11,12,Casa,41,43,-2,38,39.58
+678,33,Red Bull Bragantino - SP,3,10,11,12,Casa,45,45,0,41,41.41
+679,34,Red Bull Bragantino - SP,0,10,11,13,Fora,46,47,-1,41,40.2
+680,35,Red Bull Bragantino - SP,3,11,11,13,Fora,48,48,0,44,41.9
+681,36,Red Bull Bragantino - SP,0,11,11,14,Casa,49,52,-3,44,40.74
+682,37,Red Bull Bragantino - SP,0,11,11,15,Fora,49,58,-9,44,39.64
+683,38,Red Bull Bragantino - SP,0,11,11,16,Casa,49,59,-10,44,38.6
+684,1,Santos - SP,1,0,1,0,Fora,0,0,0,1,33.33
+685,2,Santos - SP,3,1,1,0,Casa,2,1,1,4,66.67
+686,3,Santos - SP,3,2,1,0,Casa,5,1,4,7,77.78
+687,4,Santos - SP,0,2,1,1,Fora,6,3,3,7,58.33
+688,5,Santos - SP,3,3,1,1,Casa,10,4,6,10,66.67
+689,6,Santos - SP,0,3,1,2,Fora,10,5,5,10,55.56
+690,7,Santos - SP,1,3,2,2,Casa,10,5,5,11,52.38
+691,8,Santos - SP,0,3,2,3,Casa,10,6,4,11,45.83
+692,9,Santos - SP,1,3,3,3,Fora,12,8,4,12,44.44
+693,10,Santos - SP,1,3,4,3,Casa,13,9,4,13,43.33
+694,11,Santos - SP,1,3,5,3,Fora,14,10,4,14,42.42
+695,12,Santos - SP,3,4,5,3,Fora,16,11,5,17,47.22
+696,13,Santos - SP,1,4,6,3,Casa,18,13,5,18,46.15
+697,14,Santos - SP,1,4,7,3,Fora,18,13,5,19,45.24
+698,15,Santos - SP,0,4,7,4,Casa,19,15,4,19,42.22
+699,16,Santos - SP,3,5,7,4,Casa,20,15,5,22,45.83
+700,17,Santos - SP,0,5,7,5,Fora,20,16,4,22,43.14
+701,18,Santos - SP,3,6,7,5,Casa,22,16,6,25,46.3
+702,19,Santos - SP,1,6,8,5,Fora,22,16,6,26,45.61
+703,20,Santos - SP,1,6,9,5,Casa,24,18,6,27,45.0
+704,21,Santos - SP,3,7,9,5,Fora,26,19,7,30,47.62
+705,22,Santos - SP,0,7,9,6,Fora,26,20,6,30,45.45
+706,23,Santos - SP,3,8,9,6,Casa,27,20,7,33,47.83
+707,24,Santos - SP,1,8,10,6,Fora,27,20,7,34,47.22
+708,25,Santos - SP,0,8,10,7,Casa,28,22,6,34,45.33
+709,26,Santos - SP,0,8,10,8,Fora,29,24,5,34,43.59
+710,27,Santos - SP,0,8,10,9,Fora,29,25,4,34,41.98
+711,28,Santos - SP,3,9,10,9,Casa,31,25,6,37,44.05
+712,29,Santos - SP,0,9,10,10,Fora,31,26,5,37,42.53
+713,30,Santos - SP,0,9,10,11,Casa,32,28,4,37,41.11
+714,31,Santos - SP,3,10,10,11,Casa,36,29,7,40,43.01
+715,32,Santos - SP,3,11,10,11,Fora,38,29,9,43,44.79
+716,33,Santos - SP,0,11,10,12,Casa,38,30,8,43,43.43
+717,34,Santos - SP,0,11,10,13,Fora,40,33,7,43,42.16
+718,35,Santos - SP,3,12,10,13,Fora,43,35,8,46,43.81
+719,36,Santos - SP,1,12,11,13,Casa,44,36,8,47,43.52
+720,37,Santos - SP,0,12,11,14,Fora,44,39,5,47,42.34
+721,38,Santos - SP,0,12,11,15,Casa,44,41,3,47,41.23
+722,1,São Paulo - SP,3,1,0,0,Casa,4,0,4,3,100.0
+723,2,São Paulo - SP,0,1,0,1,Fora,5,3,2,3,50.0
+724,3,São Paulo - SP,1,1,1,1,Fora,6,4,2,4,44.44
+725,4,São Paulo - SP,3,2,1,1,Casa,8,5,3,7,58.33
+726,5,São Paulo - SP,1,2,2,1,Fora,9,6,3,8,53.33
+727,6,São Paulo - SP,3,3,2,1,Casa,11,7,4,11,61.11
+728,7,São Paulo - SP,1,3,3,1,Fora,12,8,4,12,57.14
+729,8,São Paulo - SP,1,3,4,1,Casa,14,10,4,13,54.17
+730,9,São Paulo - SP,1,3,5,1,Fora,15,11,4,14,51.85
+731,10,São Paulo - SP,1,3,6,1,Fora,16,12,4,15,50.0
+732,11,São Paulo - SP,3,4,6,1,Casa,17,12,5,18,54.55
+733,12,São Paulo - SP,0,4,6,2,Fora,17,13,4,18,50.0
+734,13,São Paulo - SP,0,4,6,3,Casa,18,15,3,18,46.15
+735,14,São Paulo - SP,1,4,7,3,Casa,18,15,3,19,45.24
+736,15,São Paulo - SP,3,5,7,3,Fora,20,16,4,22,48.89
+737,16,São Paulo - SP,1,5,8,3,Fora,20,16,4,23,47.92
+738,17,São Paulo - SP,1,5,9,3,Casa,22,18,4,24,47.06
+739,18,São Paulo - SP,1,5,10,3,Fora,25,21,4,25,46.3
+740,19,São Paulo - SP,1,5,11,3,Casa,28,24,4,26,45.61
+741,20,São Paulo - SP,0,5,11,4,Fora,28,25,3,26,43.33
+742,21,São Paulo - SP,0,5,11,5,Casa,28,27,1,26,41.27
+743,22,São Paulo - SP,3,6,11,5,Casa,31,27,4,29,43.94
+744,23,São Paulo - SP,0,6,11,6,Fora,31,28,3,29,42.03
+745,24,São Paulo - SP,0,6,11,7,Casa,31,29,2,29,40.28
+746,25,São Paulo - SP,1,6,12,7,Fora,32,30,2,30,40.0
+747,26,São Paulo - SP,1,6,13,7,Casa,33,31,2,31,39.74
+748,27,São Paulo - SP,3,7,13,7,Fora,35,31,4,34,41.98
+749,28,São Paulo - SP,3,8,13,7,Casa,39,31,8,37,44.05
+750,29,São Paulo - SP,3,9,13,7,Casa,42,32,10,40,45.98
+751,30,São Paulo - SP,3,10,13,7,Fora,44,33,11,43,47.78
+752,31,São Paulo - SP,0,10,13,8,Casa,44,34,10,43,46.24
+753,32,São Paulo - SP,1,10,14,8,Fora,44,34,10,44,45.83
+754,33,São Paulo - SP,3,11,14,8,Fora,46,35,11,47,47.47
+755,34,São Paulo - SP,3,12,14,8,Casa,48,36,12,50,49.02
+756,35,São Paulo - SP,1,12,15,8,Casa,50,38,12,51,48.57
+757,36,São Paulo - SP,0,12,15,9,Fora,51,41,10,51,47.22
+758,37,São Paulo - SP,0,12,15,10,Casa,51,42,9,51,45.95
+759,38,São Paulo - SP,3,13,15,10,Fora,55,42,13,54,47.37
